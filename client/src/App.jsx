@@ -28,7 +28,7 @@ import AdminPublications from "./Pages/Admin/Publications";
 import AccessCodeGate from "./Component/Admin/AccessCodeGate";
 import ProtectedAdminRoute from "./Component/Admin/ProtectedAdminRoute";
 import AdminRedirect from "./Component/Admin/AdminRedirect";
-import GalleryPage from "./Pages/GalleryPAge";
+import GalleryPage from "./Pages/GalleryPage";
 
 function App() {
   useEffect(() => {
