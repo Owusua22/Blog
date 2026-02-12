@@ -10,7 +10,7 @@ import ArticlesPage from "./Pages/ArticlesPage";
 import ArticlePage from "./Pages/ArticlePage";
 import PublicationsPage from "./Pages/PublicationsPage";
 import BiographyPage from "./Pages/BiographyPage";
-import GalleryPage from "./Pages/GalleryPAge";
+
 import ContactPage from "./Pages/ContactPage";
 
 // Admin pages
@@ -28,6 +28,7 @@ import AdminPublications from "./Pages/Admin/Publications";
 import AccessCodeGate from "./Component/Admin/AccessCodeGate";
 import ProtectedAdminRoute from "./Component/Admin/ProtectedAdminRoute";
 import AdminRedirect from "./Component/Admin/AdminRedirect";
+import GalleryPage from "./Pages/GalleryPAge";
 
 function App() {
   useEffect(() => {
