@@ -57,7 +57,7 @@ const Navbar = () => {
           </p>
           <div className="flex items-center gap-6">
             <a
-              href="mailto:contact@mikeoquaye.com"
+              href="mailto:contact@mikeocquaye.com"
               className="hover:text-[#C5A34E] transition-colors duration-300"
             >
               contact@mikeocquaye.com
@@ -217,7 +217,7 @@ const Navbar = () => {
             </div>
             <div>
               <p className="text-white font-['Cormorant_Garamond',serif] font-bold text-base">
-                Hon. Mike Oquaye
+                Hon. Mike Ocquaye
               </p>
               <p className="text-[#627D98] text-[9px] font-['Inter',sans-serif] uppercase tracking-[0.2em]">
                 Former Speaker
