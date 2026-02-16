@@ -270,16 +270,7 @@ const Navbar = () => {
           <div className="h-px bg-gradient-to-r from-[#1B3A5C] via-[#C5A34E]/30 to-[#1B3A5C]"></div>
         </div>
 
-        {/* Mobile Login Button */}
-        <div className="p-6">
-          <Link
-            to="/login"
-            onClick={() => setIsOpen(false)}
-            className="block w-full text-center px-6 py-3.5 bg-gradient-to-r from-[#C5A34E] to-[#D4B555] text-[#0B1D3A] text-[12px] font-['Inter',sans-serif] font-bold uppercase tracking-[0.15em] rounded-sm hover:from-[#D4B555] hover:to-[#E2C96E] shadow-[0_4px_14px_rgba(197,163,78,0.3)] transition-all duration-300"
-          >
-            Login to Dashboard
-          </Link>
-        </div>
+     
 
         {/* Mobile Menu Footer */}
         <div className="absolute bottom-0 left-0 right-0 p-6 border-t border-[#1B3A5C]">
