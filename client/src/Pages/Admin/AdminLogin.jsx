@@ -94,7 +94,7 @@ const AdminLoginPage = () => {
             </div>
             <div>
               <span className="text-white text-xl font-bold font-['Cormorant_Garamond',serif] leading-tight group-hover:text-[#C5A34E] transition-colors duration-300 block">
-                Hon. Mike Ocquaye
+                Hon. Mike Oquaye
               </span>
               <span className="text-[#627D98] text-[9px] font-['Inter',sans-serif] uppercase tracking-[0.2em]">
                 Admin Portal
@@ -118,7 +118,7 @@ const AdminLoginPage = () => {
           <p className="font-['Source_Serif_Pro',serif] text-base text-[#9FB3C8] leading-relaxed mb-10">
             Sign in to your admin account to manage articles,
             publications, and content on the official website of
-            Hon. Mike Ocquaye.
+            Hon. Mike Oquaye.
           </p>
 
           {/* Features */}
@@ -154,7 +154,7 @@ const AdminLoginPage = () => {
                 </span>
               </div>
               <span className="text-white text-lg font-bold font-['Cormorant_Garamond',serif] group-hover:text-[#C5A34E] transition-colors duration-300">
-                Hon. Mike Ocquaye
+                Hon. Mike Oquaye
               </span>
             </Link>
           </div>
@@ -199,7 +199,7 @@ const AdminLoginPage = () => {
                     name="email"
                     value={formData.email}
                     onChange={handleChange}
-                    placeholder="admin@mikeocquaye.com"
+                    placeholder="admin@mikeoquaye.com"
                     className={`w-full pl-11 pr-4 py-3.5 bg-white/5 border rounded-sm font-['Inter',sans-serif] text-sm text-white placeholder-[#486581] focus:outline-none focus:ring-1 transition-all duration-300 ${
                       errors.email
                         ? "border-red-400/50 focus:border-red-400 focus:ring-red-400/30"

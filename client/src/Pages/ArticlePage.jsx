@@ -285,7 +285,7 @@ const ArticlePage = () => {
               </div>
               <div>
                 <p className="font-['Inter',sans-serif] text-sm font-medium text-white">
-                  Hon. Mike Ocquaye
+                  Hon. Mike Oquaye
                 </p>
                 <p className="font-['Inter',sans-serif] text-[10px] text-[#627D98] uppercase tracking-[0.1em]">
                   Author

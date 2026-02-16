@@ -48,7 +48,7 @@ const Hero = () => {
             <h1 className="font-['Cormorant_Garamond',serif] text-5xl sm:text-6xl md:text-7xl font-bold text-white leading-[1.05] mb-6">
               Hon. Mike
               <span className="block text-transparent bg-clip-text bg-gradient-to-r from-[#C5A34E] to-[#E2C96E]">
-                Ocquaye
+                Oquaye
               </span>
             </h1>
 

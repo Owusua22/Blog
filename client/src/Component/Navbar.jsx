@@ -57,10 +57,10 @@ const Navbar = () => {
           </p>
           <div className="flex items-center gap-6">
             <a
-              href="mailto:contact@mikeocquaye.com"
+              href="mailto:contact@mikeoquaye.com"
               className="hover:text-[#C5A34E] transition-colors duration-300"
             >
-              contact@mikeocquaye.com
+              contact@mikeoquaye.com
             </a>
             <span className="w-px h-4 bg-[#334E68]"></span>
             <div className="flex items-center gap-4">
@@ -121,7 +121,7 @@ const Navbar = () => {
               {/* Name & Title */}
               <div className="flex flex-col">
                 <span className="text-white text-lg font-bold font-['Cormorant_Garamond',serif] leading-tight tracking-wide group-hover:text-[#C5A34E] transition-colors duration-300">
-                  Hon. Mike Ocquaye
+                  Hon. Mike Oquaye
                 </span>
                 <span className="text-[#627D98] text-[10px] font-['Inter',sans-serif] uppercase tracking-[0.2em] leading-tight hidden sm:block">
                   Former Speaker of Parliament
@@ -217,7 +217,7 @@ const Navbar = () => {
             </div>
             <div>
               <p className="text-white font-['Cormorant_Garamond',serif] font-bold text-base">
-                Hon. Mike Ocquaye
+                Hon. Mike Oquaye
               </p>
               <p className="text-[#627D98] text-[9px] font-['Inter',sans-serif] uppercase tracking-[0.2em]">
                 Former Speaker
